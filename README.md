@@ -72,6 +72,21 @@ This system is intended as a **decision-support tool**, not a replacement for hu
 
 ---
 
+## Project Status
+
+This repository represents an MVP / prototype focused on:
+Core risk detection logic
+Explainability and transparency
+Responsible AI framing
+Future improvements may include:
+Expanded datasets
+Domain-specific calibration
+Optional integration with external verification services
+Bias and robustness evaluation
+Disclaimer
+VeriLens provides early misinformation risk signals based on linguistic and contextual patterns.
+It does not verify facts, determine truth, or replace professional judgment.
+
 ## How to Run Locally
 
 ### 1. Clone the repository
